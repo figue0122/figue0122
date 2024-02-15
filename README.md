@@ -4,8 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.figueroa0122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-figueroapr/)
 
-![Funny GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
 
 ## About Me
 
@@ -63,4 +61,4 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=figue0122&show_icons=true&locale=en&layout=compact&theme=radical)
 
-! [Funny GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![gif mario](https://github.com/figue0122/figue0122/assets/120404359/3c5f79dc-1a20-4114-bd86-49d1b0118014)
