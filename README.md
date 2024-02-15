@@ -1,5 +1,8 @@
 # Hi there, I'm Miguel Figueroa 👋
 
+![welcome-cat](https://github.com/figue0122/figue0122/assets/120404359/a7dc4279-3fc9-4f7f-9d95-9c5fba63582f)
+
+
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Miguel_Figueroa.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.figueroa0122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-figueroapr/)
