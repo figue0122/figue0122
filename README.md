@@ -66,4 +66,3 @@
 |[AirBnB Clone](https://github.com/jhonaRiver/AirBnB_clone_v4)| HolbertonBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages |
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=figue0122&show_icons=true&locale=en&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=figue0122&show_icons=true&theme=radical)
