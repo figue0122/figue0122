@@ -14,20 +14,7 @@
 
 * 💼 Software Engineer and Education Lead at Holberton Coding School PR (jun 2023 - Present)
 
-### Most used Repositories
 
-| Repository | Description |
-| --- | --- |
-| [holbertonschool-higher_level_programming](https://github.com/figue0122/holbertonschool-higher_level_programming) | High-Level Programming involves a programming language with strong abstraction from the details of the computer. In contrast to low-level programming, it may use natural language elements, be easier to use, or may automate significant areas of computing systems, making the process of developing a program simpler and more understandable than when using a lower-level language. The amount of abstraction provided defines how "high-level" a programming language is. |
-| [holbertonschool-low_level_programming](https://github.com/figue0122/holbertonschool-low_level_programming) | Low-Level Programming is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map that are structurally similar to processor's instructions. Generally, this refers to either machine code or assembly language. Because of the low abstraction between the language and machine language, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable, due to being optimized for a certain type of system architecture. |
-
-### Major projects worked on at school
-  
-| Project name | Description |
-| --- | --- |
-|[Printf](https://github.com/GuilleP2018/holbertonschool-printf)| This program is designed to emulate the printf function in C |
-|[Simple_Shell](https://github.com/carlfrank/holbertonschool-simple_shell)| This program is designed to replicate the abilities of a simple shell |
-|[AirBnB Clone](https://github.com/nadeshda18/holbertonschool-AirBnB_clone_v4)| HolbertonBnB is a comprehensive web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. Additionally, it features a console interpreter to work with the classes and interact with both the DB and JSON storages. |
 
 ## Languages
 
@@ -61,6 +48,20 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### Most used Repositories
+
+| Repository | Description |
+| --- | --- |
+| [holbertonschool-higher_level_programming](https://github.com/figue0122/holbertonschool-higher_level_programming) | High-Level Programming involves a programming language with strong abstraction from the details of the computer. In contrast to low-level programming, it may use natural language elements, be easier to use, or may automate significant areas of computing systems, making the process of developing a program simpler and more understandable than when using a lower-level language. The amount of abstraction provided defines how "high-level" a programming language is. |
+| [holbertonschool-low_level_programming](https://github.com/figue0122/holbertonschool-low_level_programming) | Low-Level Programming is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map that are structurally similar to processor's instructions. Generally, this refers to either machine code or assembly language. Because of the low abstraction between the language and machine language, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable, due to being optimized for a certain type of system architecture. |
+
+### Major projects worked on at school
+  
+| Project name | Description |
+| --- | --- |
+|[Printf](https://github.com/GuilleP2018/holbertonschool-printf)| This program is designed to emulate the printf function in C |
+|[Simple_Shell](https://github.com/carlfrank/holbertonschool-simple_shell)| This program is designed to replicate the abilities of a simple shell |
+|[AirBnB Clone](https://github.com/nadeshda18/holbertonschool-AirBnB_clone_v4)| HolbertonBnB is a comprehensive web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. Additionally, it features a console interpreter to work with the classes and interact with both the DB and JSON storages. |
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=figue0122&show_icons=true&locale=en&layout=compact&theme=radical)
 
