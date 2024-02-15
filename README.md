@@ -1,16 +1,15 @@
-# Hi there, I'm Miguel Figueroa 
+# Hi there, I'm Miguel Figueroa 👋
 
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Miguel_Figueroa.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.figueroa0122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-figueroapr/)
 
-![Views](https://komarev.com/ghpvc/?username=figue0122&style=for-the-badge)
 
 ## About Me
 
-* Full-stack Engineer graduated from Holberton Coding School
+*  🎓 Full-stack Engineer graduated from Holberton Coding School
 
-* Software Engineer and Education Lead at Holberton Coding School PR (jun 2023 - Present)
+* 💼 Software Engineer and Education Lead at Holberton Coding School PR (jun 2023 - Present)
 
 ### Most used Repositories
 
