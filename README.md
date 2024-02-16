@@ -12,7 +12,7 @@
 
 *  🎓 Full-stack Engineer graduated from Holberton Coding School
 
-* 💼 Software Engineer and Education Lead at Holberton Coding School PR (jun 2023 - Present)
+* 💼 Software Engineer PR
 
 
 
